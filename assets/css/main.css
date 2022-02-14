@@ -377,8 +377,8 @@ footer a:hover { color: #B509AC; }
 .news { border-top: 1px solid #e8e8e8; margin-top: 30px; padding-top: 20px; }
 .news h2 { font-weight: bold; margin-top: 0; margin-bottom: 10px; }
 .news table { border-collapse: collapse; width: 100%; }
-.news table .date { width: 19%; }
-.news table .announcement { width: 81%; }
+.news table .date { width: 15%; }
+.news table .announcement { width: 25%; }
 .news table tr { text-align: left; }
 .news table td { padding: 6px 0; vertical-align: top; border: none; }
 
